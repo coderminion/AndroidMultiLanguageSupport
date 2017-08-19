@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hello Namaste Ola …</string>
+    <string name="hello">Hallo</string>
+    <string name="greet">Aangenaam kennis te maken.</string>
+    <string name="intro">Dit is een handleiding voor meerdere talen.</string>
+    <string name="replace_action">Vervang met uw eigen actie.</string>
+    <string name="youtube_text">Bekijk deze handleiding hier.</string>
+
+
+</resources>

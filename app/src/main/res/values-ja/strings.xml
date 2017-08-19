@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Hello Namaste Ola …</string>
+
+    <string name="hello">こんにちは</string>
+    <string name="greet">はじめまして。</string>
+    <string name="intro">これはマルチ言語のチュートリアルです。</string>
+    <string name="replace_action">自分の行動に置き換えてください。</string>
+    <string name="youtube_text">ここでこのチュートリアルをご覧ください。</string>
+
+
+</resources>

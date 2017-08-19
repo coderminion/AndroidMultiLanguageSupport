@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Hello Namaste Ola …</string>
+    <string name="hello">Hola</string>
+    <string name="greet">Encantada de conocerte.</string>
+    <string name="intro">Este es un tutorial para varios idiomas.</string>
+    <string name="replace_action">Reemplazar con su propia acción.</string>
+    <string name="youtube_text">Vea este tutorial aquí.</string>
+
+
+</resources>
